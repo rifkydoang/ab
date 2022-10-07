@@ -2,3 +2,5 @@ Resolusi Rifky bulan Oktober
 - Belajar HTML CSS
 - Implementasi Javascript ke project
 - buat aplikasi Android
+- Bikin aplikasi mencatat pemasukan dan pengeluaran
+- Coba bikin web simple link profil
